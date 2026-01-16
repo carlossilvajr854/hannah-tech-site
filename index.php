@@ -146,7 +146,7 @@
                 </div>
             </a>
             <a href="galeria-redes.php" class="block group relative rounded-xl overflow-hidden shadow-2xl h-80">
-                <img src="https://images.unsplash.com/photo-1551703599-6b3e8379aa8c?auto=format&fit=crop&w=600&q=80" alt="Redes" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
+                <img src="https://images.unsplash.com/photo-1591808216268-ce0b82787efe?auto=format&fit=crop&w=600&q=80" alt="Redes" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent opacity-90 group-hover:opacity-70 transition"></div>
                 <div class="absolute bottom-0 left-0 p-6 z-10">
                     <h3 class="text-2xl font-bold text-white mb-1 translate-y-2 group-hover:translate-y-0 transition duration-300">Redes & CFTV</h3>
@@ -154,7 +154,7 @@
                 </div>
             </a>
             <a href="galeria-design.php" class="block group relative rounded-xl overflow-hidden shadow-2xl h-80">
-                <img src="https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&w=600&q=80" alt="Design" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
+                <img src="https://plus.unsplash.com/premium_photo-1661770132071-026114fffb61?auto=format&fit=crop&w=600&q=80" alt="Design" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent opacity-90 group-hover:opacity-70 transition"></div>
                 <div class="absolute bottom-0 left-0 p-6 z-10">
                     <h3 class="text-2xl font-bold text-white mb-1 translate-y-2 group-hover:translate-y-0 transition duration-300">Design</h3>
@@ -162,7 +162,7 @@
                 </div>
             </a>
             <a href="portfolio-dev.php" class="block group relative rounded-xl overflow-hidden shadow-2xl h-80">
-                <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80" alt="Dev" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
+                <img src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=600&q=80" alt="Dev" class="absolute inset-0 w-full h-full object-cover transition duration-500 transform group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent opacity-90 group-hover:opacity-70 transition"></div>
                 <div class="absolute bottom-0 left-0 p-6 z-10">
                     <h3 class="text-2xl font-bold text-white mb-1 translate-y-2 group-hover:translate-y-0 transition duration-300">Sites e Sistemas</h3>

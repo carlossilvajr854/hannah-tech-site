@@ -16,105 +16,105 @@
             
             <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
                 <img src="./img/design001.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Banner da Live Solidária da dupla Henry e Luan" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(1)">
                 <img src="./img/design002.png" 
-                     alt="Live Henry e Luan" 
+                     alt="Design do novo site da Web Rádio Liberdade" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(2)">
                 <img src="./img/design003.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Panfleto de Agência de Viagens em Belém" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
-                <img src="./img/design004.png" 
-                     alt="Live Henry e Luan" 
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(3)">
+                <img src="./img/design004.jpg" 
+                     alt="Banner do evento Corrida da Fé em Minas Gerais" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(4)">
                 <img src="./img/design005.png" 
-                     alt="Live Henry e Luan" 
+                     alt="Flyer da Copa de Sinuca em Minas Gerais" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(5)">
                 <img src="./img/design006.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Panfleto da Lavanderia Wash & Fix no Rio de Janeiro" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(6)">
                 <img src="./img/design007.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Panfleto Studio Bellas no Rio de Janeiro" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(7)">
                 <img src="./img/design008.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Catálogo de produtos da Barbearia Club Men no Rio de Janeiro" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
-                <img src="./img/design009.jpg" 
-                     alt="Live Henry e Luan" 
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(8)">
+                <img src="./img/design009.png" 
+                     alt="Design da nova fachada da Panificadora WE em Belém" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(9)">
                 <img src="./img/design010.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Novo design do Sistema ERP da Conectiva Tecnologia de Minas Gerais" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(10)">
                 <img src="./img/design011.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Cartão de visita da Lavanderia Pontal no Rio de Janeiro" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(11)">
                 <img src="./img/design012.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Criação de Logotipo da Power Up Suplementos em São Paulo" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(12)">
                 <img src="./img/design013.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Criação do novo Logotipo da Conectiva Tecnologia em Minas Gerais" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(13)">
                 <img src="./img/design014.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Cartão de visita de Consultor de Marketing Multinível em Minas Gerais" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
 
-            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(0)">
+            <div class="cursor-pointer overflow-hidden rounded-xl shadow-lg group h-64 relative item-galeria" onclick="openModal(14)">
                 <img src="./img/design015.jpg" 
-                     alt="Live Henry e Luan" 
+                     alt="Cartão de visita de psicóloga no Rio de Janeiro" 
                      class="object-cover w-full h-full transform group-hover:scale-110 transition duration-500">
                 <div class="absolute inset-0 bg-black/20 group-hover:bg-transparent transition"></div>
             </div>
@@ -144,7 +144,7 @@
 <script>
     // Variáveis Globais para controle do Carrossel
     let indiceAtual = 0;
-    const imagens = document.querySelectorAll('.item-galeria img'); // Pega todas as imagens da grid
+    const imagens = document.querySelectorAll('.item-galeria img');
 
     function openModal(index) {
         const modal = document.getElementById('imgModal');
