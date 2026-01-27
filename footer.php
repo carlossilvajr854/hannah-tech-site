@@ -1,6 +1,6 @@
     <footer class="bg-gray-900 text-white py-8 text-center mt-auto">
         <div class="container mx-auto px-6">
-            <p class="mb-2">&copy; <?php echo date("Y"); ?> Hannah Tech. Todos os direitos reservados.</p>
+            <p class="mb-2">&copy; <?php echo date("Y"); ?> Hannah Tech. Desenvolvido por Carlos Oliveira.</p>
             <div class="flex justify-center gap-4 text-2xl mt-4">
                 <a href="#" class="hover:text-blue-400 transition"><i class="fa-brands fa-instagram"></i></a>
                 <a href="https://wa.me/5591986376950" target="_blank" class="hover:text-blue-400 transition"><i class="fa-brands fa-whatsapp"></i></a>
