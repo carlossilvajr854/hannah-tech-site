@@ -34,7 +34,7 @@
                         <i class="fa-solid fa-rocket mr-2"></i> Ver Demo Online
                     </a>
                     <span class="block text-center text-gray-400 text-xs italic">
-                        <i class="fa-solid fa-lock mr-2"></i> Repositório Privado
+                        <i class="fa-solid fa-unlock mr-2"></i> Repositório Público
                     </span>
                 </div>
             </div>
@@ -54,7 +54,7 @@
                     </div>
                 </div>
                 <div class="p-6 pt-0 mt-auto">
-                    <a href="https://github.com/carlossilvajr854/hannah-tech-site" target="_blank" class="block text-center border border-hannah-dark text-hannah-dark py-2 rounded hover:bg-hannah-dark hover:text-white transition font-bold">
+                    <a href="https://github.com/carlossilvajr854/" target="_blank" class="block text-center border border-hannah-dark text-hannah-dark py-2 rounded hover:bg-hannah-dark hover:text-white transition font-bold">
                         <i class="fa-brands fa-github mr-2"></i> Ver no GitHub
                     </a>
                 </div>
